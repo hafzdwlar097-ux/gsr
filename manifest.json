@@ -1,0 +1,10 @@
+
+{
+  "name": "جسور | Bridges",
+  "short_name": "جسور",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d9488",
+  "icons": [{ "src": "https://cdn-icons-png.flaticon.com/512/9440/9440409.png", "sizes": "512x512", "type": "image/png" }]
+}

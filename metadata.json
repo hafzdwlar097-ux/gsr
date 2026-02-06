@@ -1,0 +1,8 @@
+{
+  "name": "جسور | Bridges P2P",
+  "description": "نظام استغاثة مجتمعي يعمل بالكامل عبر الشبكة المحلية (Mesh) بدون الحاجة لإنترنت. يدعم الخريطة التفاعلية، الرادار، والكاميرا.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
